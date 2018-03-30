@@ -1,5 +1,7 @@
 ### Slung load transportation 
 
+The notebooks, described next, are meant to be read in conjunction with the companion pdf document "aerial generalized slung load transportation.pdf".
+
 The model for the system, composed of two rigid bodies (UAV and rod-like manipulator), is described in the notebook "vector_field.nb"  (Section IV).
 
 Two cases are considered:
